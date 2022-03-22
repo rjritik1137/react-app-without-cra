@@ -16,7 +16,7 @@
 - enable prettier require config
 - create an empty .prettierrc file at root of dir
 
-### Install linters###
+### Install linters
 
 `npm i -D eslint eslint-config-prettier eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y`
 
@@ -26,7 +26,7 @@
 
 `npm i react react-dom`
 
-### Install parcel###
+### Install parcel
 
 `npm i -D parcel`
 
